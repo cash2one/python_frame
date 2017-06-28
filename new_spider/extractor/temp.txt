@@ -1,0 +1,19 @@
+解析 html
+不正常情况 转unicode 试  u""+
+            unicode()
+            body.decode('utf-8', 'ignore')
+
+from lxml import etree
+etree.tostring(html_results[0], encoding="utf-8")) 直接html. encoding 设置编码
+
+lxml
+from lxml.html import fromstring
+tree = fromstring(body.decode('utf-8', 'ignore') )  # 这种方式 可使用cssselect  不然linux 不能使用
+containers = tree.cssselect('div.c-container')  # *行代码
+
+nodes = tree.xpath("//div[@id='name']")
+
+bs4  html.parser    lxml    html5lib
+from bs4 import BeautifulSoup
+soup = BeautifulSoup(body, "html.parser")
+html_results = soup.find_all("dl", {"class": "dl"})

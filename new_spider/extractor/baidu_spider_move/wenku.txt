@@ -1,0 +1,7 @@
+<meta content="always" name="referrer"><script>try{if(window.opener&&window.opener.bds&&window.opener.bds.pdc&&window.opener.bds.pdc.sendLinkLog)
+{window.opener.bds.pdc.sendLinkLog();}}catch(e) {};
+var timeout = 0;if(/bdlksmp/.test(window.location.href))
+{var reg = /bdlksmp=([^=&]+)/,matches = window.location.href.match(reg);timeout = matches[1] ? matches[1] : 0};
+setTimeout(function(){window.location.replace("http://wenku.baidu.com/link?url=tGwD8l3GtcZHZ8iyayHnqcL-LmfMXjuJSD1vtAncdN9ctckru1AKg8SeYhrbBYROHkRadYL0Nb7Ylnq2uX58mMsqp0T5in062BN1DxkLoR0nJe4yMxpAbNJcP3i-j6eV")},timeout);
+window.opener=null;</script>
+<noscript><META http-equiv="refresh" content="0;URL='http://wenku.baidu.com/link?url=tGwD8l3GtcZHZ8iyayHnqcL-LmfMXjuJSD1vtAncdN9ctckru1AKg8SeYhrbBYROHkRadYL0Nb7Ylnq2uX58mMsqp0T5in062BN1DxkLoR0nJe4yMxpAbNJcP3i-j6eV'"></noscript>

@@ -1,0 +1,2 @@
+python D:\pyCharm\alter\new_spider\adsl_screenshot\sx_adsl_downloader.py
+python C:\python\adsl_pulldown\dist\sx_adsl_pulldown\sx_adsl_pulldown.exe

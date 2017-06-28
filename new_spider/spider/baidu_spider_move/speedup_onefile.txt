@@ -1,0 +1,5 @@
+到   baidu_spider_store 下面
+
+find_filename_list  查文件
+
+"select fileName from task WHERE customer =0 and isEqual in (0,1) and fileName = ''  GROUP BY fileName"
